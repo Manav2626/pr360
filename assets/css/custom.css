@@ -1,0 +1,84 @@
+.know-more-btn {
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: #ef724c;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  opacity: 0; /* Start with the button hidden */
+  transform: translateY(20px); /* Start slightly down */
+}
+
+.know-more-btn.fade-in {
+  animation: fadeIn 1s ease forwards; /* Fade in over 1 second */
+  animation-delay: 0.5s; /* Optional delay before fade-in starts */
+}
+
+.know-more-btn:hover {
+  background-color: #d8613d;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+  color: #0c1547;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px); /* Start down */
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0); /* End at original position */
+  }
+}
+
+
+
+
+/* Container Styles */
+.vlt-styled-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns layout */
+    gap: 10px; /* Space between items */
+    list-style: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+}
+
+/* List Item Styles */
+.vlt-styled-list--style-3 li {
+    display: flex;
+    align-items: center; /* Center content vertically */
+    padding: 10px; /* Add padding inside each list item */
+    box-sizing: border-box; /* Include padding in the element's total width and height */
+    border: 1px solid #ddd; /* Optional: Add a border for better visibility */
+    background: #f9f9f9; /* Optional: Add background color */
+}
+
+/* Pseudo-element Styles */
+.vlt-styled-list--style-3 li::before {
+    display: inline-block;
+    width: 10px;
+    height: 10px; /* Adjusted height to make the marker more visible */
+    margin-right: 10px; /* Adjusted margin-right for spacing */
+    content: '';
+    background-color: #ef724c; /* Marker color */
+    border-radius: 50%; /* Make the marker circular */
+}
+
+/* Spacing Adjustments */
+.vlt-styled-list--style-3 li + li {
+    margin-top: 0; /* Remove extra top margin for items in the same column */
+}
+
+/* Responsive Adjustment */
+@media (max-width: 768px) {
+    .vlt-styled-list {
+        grid-template-columns: 1fr; /* Single column layout on small screens */
+    }
+}
+
+
