@@ -64,7 +64,7 @@
 									<label class="vlt-form-label">Message*</label>
 								</div>
 								
-								<input type="hidden" name="redirect" value="http://localhost:8000/contact.php"> 
+								<input type="hidden" name="redirect" value="https://pr36o.com/contact.php"> 
 
 
 								<div class="vlt-gap-40"></div>
