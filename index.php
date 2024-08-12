@@ -27,7 +27,7 @@
 									<div class="vlt-project-showcase__content">
 										<div class="container">
 											<div class="row">
-												<div class="col-lg-6 offset-lg-1"><span class="vlt-project-showcase__number">01</span>
+												<div class="col-lg-6 offset-lg-1">
 													<div class="position-relative">
 														<h1 class="vlt-project-showcase__title mask has-cursor"><a href="#">Premium <br>Branding</a></h1>
 														<h1 class="vlt-project-showcase__title original has-cursor"><a href="#">Premium <br>Branding</a></h1>
@@ -58,7 +58,7 @@
 									<div class="vlt-project-showcase__content">
 										<div class="container">
 											<div class="row">
-												<div class="col-lg-6 offset-lg-1"><span class="vlt-project-showcase__number">02</span>
+												<div class="col-lg-6 offset-lg-1">
 													<div class="position-relative">
 														<h1 class="vlt-project-showcase__title mask has-cursor"><a href="#">Brilliant <br>Strategies</a></h1>
 														<h1 class="vlt-project-showcase__title original has-cursor"><a href="#">Brilliant <br>Strategies</a></h1>
@@ -89,7 +89,7 @@
 									<div class="vlt-project-showcase__content">
 										<div class="container">
 											<div class="row">
-												<div class="col-lg-6 offset-lg-1"><span class="vlt-project-showcase__number">03</span>
+												<div class="col-lg-6 offset-lg-1">
 													<div class="position-relative">
 														<h1 class="vlt-project-showcase__title mask has-cursor"><a href="#">Sorted <br>Marketing</a></h1>
 														<h1 class="vlt-project-showcase__title original has-cursor"><a href="#">Sorted <br>Marketing</a></h1>
@@ -316,7 +316,7 @@
 									<div>
 										<!--Portfolio item-->
 										<article class="vlt-work vlt-work--style-3">
-											<div class="vlt-work__media"><img src="assets/img1/ms1.jpg" alt="" loading="lazy">
+											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms1.jpg" alt="" loading="lazy">
 											</div>
 											
 										</article>
@@ -326,7 +326,7 @@
 									<div>
 										<!--Portfolio item-->
 										<article class="vlt-work vlt-work--style-3">
-											<div class="vlt-work__media"><img src="assets/img1/ms2.jpg" alt="" loading="lazy">
+											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms2.jpg" alt="" loading="lazy">
 											</div>
 											
 										</article>
@@ -336,7 +336,7 @@
 									<div>
 										<!--Portfolio item-->
 										<article class="vlt-work vlt-work--style-3">
-											<div class="vlt-work__media"><img src="assets/img1/ms4.jpg" alt="" loading="lazy">
+											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms4.jpg" alt="" loading="lazy">
 											</div>
 											
 										</article>
@@ -346,7 +346,7 @@
 									<div>
 										<!--Portfolio item-->
 										<article class="vlt-work vlt-work--style-3">
-											<div class="vlt-work__media"><img src="assets/img1/ms5.jpg" alt="" loading="lazy">
+											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms5.jpg" alt="" loading="lazy">
 											</div>
 											
 										</article>
