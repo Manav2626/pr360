@@ -328,10 +328,7 @@
 										<article class="vlt-work vlt-work--style-3">
 											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms2.jpg" alt="" loading="lazy">
 											</div>
-											<div class="vlt-work__meta">
-												<h5 class="vlt-work__title">Dualshock 4
-												</h5><span class="vlt-work__category">Design</span>
-											</div>
+											
 										</article>
 									</div>
 								</div>
@@ -341,10 +338,7 @@
 										<article class="vlt-work vlt-work--style-3">
 											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms4.jpg" alt="" loading="lazy">
 											</div>
-											<div class="vlt-work__meta">
-												<h5 class="vlt-work__title">Packaging
-												</h5><span class="vlt-work__category">Branding</span>
-											</div>
+											
 										</article>
 									</div>
 								</div>
@@ -354,10 +348,7 @@
 										<article class="vlt-work vlt-work--style-3">
 											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms5.jpg" alt="" loading="lazy">
 											</div>
-											<div class="vlt-work__meta">
-												<h5 class="vlt-work__title">Bang &amp; Olufsen
-												</h5><span class="vlt-work__category">Marketing</span>
-											</div>
+											
 										</article>
 									</div>
 								</div>
