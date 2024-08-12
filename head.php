@@ -67,7 +67,7 @@
 					<div class="vlt-nav--fullscreen__header">
 						<div class="container">
 							<div class="d-flex align-items-center justify-content-between">
-								<!--Logo--><a class="vlt-navbar-logo" href="index.html"><img src="assets/img/root/pr360.png" alt="" style="height: 55px;" loading="lazy"></a><a class="vlt-menu-burger js-fullscreen-menu-toggle" href="#"><span class="line-one"></span><span class="line-two"></span></a>
+								<!--Logo--><a class="vlt-navbar-logo" href="index.php"><img src="assets/img/root/pr360.png" alt="" style="height: 85px;" loading="lazy"></a><a class="vlt-menu-burger js-fullscreen-menu-toggle" href="#"><span class="line-one"></span><span class="line-two"></span></a>
 							</div>
 						</div>
 					</div>
@@ -104,7 +104,7 @@
 								<!--Widget-->
 								<div class="vlt-widget vlt-widget--html">
 									<div class="text-right">
-										<!--Simple link--><a class="vlt-simple-link vlt-simple-link--sm" href="mailto:hello@skape.com" target="_self">info@pr36o.com</a><br>
+										<!--Simple link--><a class="vlt-simple-link vlt-simple-link--sm" href="mailto:info@pr36o.com" target="_self">info@pr36o.com</a><br>
 										<!--Simple link--><a class="vlt-simple-link vlt-simple-link--sm" href="tel:7990307549" target="_self">7990307549</a>
 									</div>
 								</div>
