@@ -21,8 +21,7 @@
 					<!--Widget-->
 					<div class="vlt-widget vlt-widget--text vlt-widget--white">
 						<ul>
-							<li><a href="#">Twitter</a></li>
-							<li><a href="#">Instagram</a></li>
+							<li><a href="https://www.instagram.com/pr36o.marketing?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Instagram</a></li>
 							<li><a href="#">Facebook</a></li>
 							<li><a href="#">LinkedIn</a></li>
 						</ul>

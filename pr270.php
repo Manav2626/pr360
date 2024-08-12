@@ -66,70 +66,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="vlt-gap-120"></div>
-				<div class="container">
-					<div class="row">
-						<div class="col-md-5 offset-md-6">
-							<!--Animated block-->
-							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0">
-								<!--Section title-->
-								<div class="vlt-section-title vlt-section-title--style-2">
-									<h2 class="vlt-section-title__title">Work</h2>
-								</div>
-							</div>
-							<div class="vlt-gap-60--sm"></div>
-						</div>
-						<div class="col-md-10 offset-md-1">
-							<!--Particle image--><img class="vlt-particle" src="assets/img/root/square-plus-pattern-long.png" data-animation-name="fadeInUp" alt="" style="position: absolute; top: -126px; left: -100px; max-width: 210px; --animate-delay: .5s;" loading="lazy">
-							<!--Animated block-->
-							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="100">
-								<div class="vlt-isotope-grid" data-columns="2" data-layout="cellsByRow" data-x-gap="100|100" data-y-gap="0|0">
-									<div class="grid-sizer"></div>
-									<div class=" grid-item filter-design">
-										<!--Portfolio item-->
-										<article class="vlt-work vlt-work--style-6">
-											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="#"></a><img src="assets/img/service-work-01.png" alt="" loading="lazy">
-											</div>
-											<div class="vlt-work__meta">
-												<h5 class="vlt-work__title" data-marquee=""><span data-marquee-text="Dual Shock">Dual Shock</span><span data-marquee-text="Dual Shock">Dual Shock</span><span data-marquee-text="Dual Shock">Dual Shock</span></h5>
-											</div>
-										</article>
-									</div>
-									<div class=" grid-item filter-design">
-										<!--Portfolio item-->
-										<article class="vlt-work vlt-work--style-6">
-											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="#"></a><img src="assets/img/service-work-02.png" alt="" loading="lazy">
-											</div>
-											<div class="vlt-work__meta">
-												<h5 class="vlt-work__title" data-marquee=""><span data-marquee-text="Bang &amp; Olufsen">Bang &amp; Olufsen</span><span data-marquee-text="Bang &amp; Olufsen">Bang &amp; Olufsen</span><span data-marquee-text="Bang &amp; Olufsen">Bang &amp; Olufsen</span></h5>
-											</div>
-										</article>
-									</div>
-									<div class=" grid-item filter-design">
-										<!--Portfolio item-->
-										<article class="vlt-work vlt-work--style-6">
-											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="#"></a><img src="assets/img/service-work-03.png" alt="" loading="lazy">
-											</div>
-											<div class="vlt-work__meta">
-												<h5 class="vlt-work__title" data-marquee=""><span data-marquee-text="Mobile App">Mobile App</span><span data-marquee-text="Mobile App">Mobile App</span><span data-marquee-text="Mobile App">Mobile App</span></h5>
-											</div>
-										</article>
-									</div>
-									<div class=" grid-item filter-photography">
-										<!--Portfolio item-->
-										<article class="vlt-work vlt-work--style-6">
-											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="#"></a><img src="assets/img/service-work-04.png" alt="" loading="lazy">
-											</div>
-											<div class="vlt-work__meta">
-												<h5 class="vlt-work__title" data-marquee=""><span data-marquee-text="Photography">Photography</span><span data-marquee-text="Photography">Photography</span><span data-marquee-text="Photography">Photography</span></h5>
-											</div>
-										</article>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+				
 			</section>
 			<!--Page navigation-->
 			<section class="vlt-page-navigation vlt-page-navigation--style-1 has-black-color">

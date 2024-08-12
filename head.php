@@ -25,6 +25,7 @@
 
 <body>
 		<!--Site preloader-->
+		<div class="vlt-site-preloader" data-animate-to="M0 0h202v66H0z">
 		<!--Site preloader-->
 		
 		<div class="text-center">
@@ -33,7 +34,6 @@
 				<a href="#" target="_self" class="preload-fill animate">PR360</a>
 				
 			</div>
-			<div class="vlt-site-preloader" data-animate-to="M0 0h202v66H0z">
 </div>
 </div>
 	<!--Header-->
