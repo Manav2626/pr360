@@ -29,8 +29,8 @@
 											<div class="row">
 												<div class="col-lg-6 offset-lg-1"><span class="vlt-project-showcase__number">01</span>
 													<div class="position-relative">
-														<h1 class="vlt-project-showcase__title mask has-cursor"><a href="#">Premium <br>Branding</a></h1>
-														<h1 class="vlt-project-showcase__title original has-cursor"><a href="#">Premium <br>Branding</a></h1>
+														<h1 class="vlt-project-showcase__title mask has-cursor"><a href="#">Premiumm <br>Branding</a></h1>
+														<h1 class="vlt-project-showcase__title original has-cursor"><a href="#">Premiumm <br>Branding</a></h1>
 													</div>
 													<!--Simple link-->
 												</div>
