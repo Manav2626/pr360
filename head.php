@@ -122,7 +122,7 @@
 					<div class="vlt-navbar-inner">
 						<div class="vlt-navbar-inner--left">
 							<div class="d-flex align-items-center justify-content-center h-100">
-								<!--Logo--><a class="vlt-navbar-logo" href="index.html"><img class="black" src="assets/img/root/pr360.png" alt="" style="height: 55px;" loading="lazy"><img class="white" src="assets/img/root/lpr360.png" alt="" style="height: 55px;" loading="lazy"></a>
+								<!--Logo--><a class="vlt-navbar-logo" href="index.php"><img class="black" src="assets/img/root/pr360.png" alt="" style="height: 55px;" loading="lazy"><img class="white" src="assets/img/root/lpr360.png" alt="" style="height: 55px;" loading="lazy"></a>
 							</div>
 						</div>
 						<div class="vlt-navbar-inner--right">
