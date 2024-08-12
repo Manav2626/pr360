@@ -82,7 +82,7 @@
 									<div class="vlt-animated-block" data-aos="fade" data-aos-delay="200">
 										<h5>General Info</h5>
 										<div class="vlt-gap-20"></div>
-										<p class="lh-2">B-303, Om Decora 9 Square 150 Feet Ring Rd, Circle, Nana Mava, Rajkot, Gujarat 360003<br>858-923-5899 <br>info@pr36o.com</p>
+										<p class="lh-2">B-303, Om Decora 9 Square 150 Feet Ring Rd, Circle, Nana Mava, Rajkot, Gujarat 360003<br>7990307549 <br>info@pr36o.com</p>
 									</div>
 									<div class="vlt-gap-60"></div>
 								</div>
