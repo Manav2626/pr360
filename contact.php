@@ -55,10 +55,7 @@
 										<label class="vlt-form-label">Company</label>
 									</div>
 								</div>
-								<div class="vlt-form-group">
-									<input class="vlt-form-control" type="text" name="title" required="required" placeholder=" ">
-									<label class="vlt-form-label">Title*</label>
-								</div>
+								
 								<div class="vlt-form-group">
 									<textarea class="vlt-form-control" name="message" rows="5" placeholder=" "></textarea>
 									<label class="vlt-form-label">Message*</label>
