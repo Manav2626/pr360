@@ -3,12 +3,12 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Home Page</title>
-	<meta name="description" content="Creative &amp; Modern Agency HTML5 Template">
+	<title>PR360</title>
+	<meta name="description" content="">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!--Favicon-->
-	<link rel="icon" type="image/svg" href="assets/img/root/favicon.svg">
+	<link rel="icon" type="image/svg" href="assets/img1/favicon.png">
 	<!--Framework-->
 	<link rel="stylesheet" href="assets/css/framework/bootstrap.min.css">
 	<!--Fonts-->
