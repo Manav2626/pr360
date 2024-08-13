@@ -4,7 +4,10 @@
 <head>
 	<meta charset="utf-8">
 	<title>PR360</title>
-	<meta name="description" content="">
+
+	<meta name="description" content="PR360 offers comprehensive healthcare marketing services including referral business, TPA/corporate/PSU business, RWA & community outreach, digital marketing, and PR & media solutions. Discover how our dedicated approach can enhance your healthcare practice's visibility and engagement.">
+	<meta name="keywords" content="healthcare marketing, PR360, referral business, TPA, corporate business, community outreach, digital marketing, PR & media">
+	<meta name="author" content="PR360">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!--Favicon-->
@@ -24,18 +27,18 @@
 </head>
 
 <body>
+	<!--Site preloader-->
+	<div class="vlt-site-preloader" data-animate-to="M0 0h202v66H0z">
 		<!--Site preloader-->
-		<div class="vlt-site-preloader" data-animate-to="M0 0h202v66H0z">
-		<!--Site preloader-->
-		
+
 		<div class="text-center">
 			<!--Stroke text-->
 			<div class="vlt-stroke-text vlt-stroke-text--lg">
 				<a href="#" target="_self" class="preload-fill animate">PR360</a>
-				
+
 			</div>
-</div>
-</div>
+		</div>
+	</div>
 	<!--Header-->
 	<div class="d-none d-lg-block">
 		<header class="vlt-header vlt-header--fullscreen">
@@ -78,17 +81,17 @@
 							<!--Navigation-->
 							<!--Menu-->
 							<ul class="sf-menu" data-back-text="Back">
-								
-								<li ><a href="./packages.php"><span>Packages</span></a>
-									
-								</li>
-								<li ><a href="./projects.php"><span>Projects</span></a>
+
+								<li><a href="./packages.php"><span>Packages</span></a>
 
 								</li>
-								<li ><a href="./about.php"><span>About Us</span></a>
+								<li><a href="./projects.php"><span>Projects</span></a>
 
 								</li>
-								<li ><a href="./contact.php"><span>Contact</span></a>
+								<li><a href="./about.php"><span>About Us</span></a>
+
+								</li>
+								<li><a href="./contact.php"><span>Contact</span></a>
 
 								</li>
 							</ul>
@@ -115,7 +118,7 @@
 			</div>
 		</nav>
 	</div>
-    <div class="d-lg-none d-sm-block">
+	<div class="d-lg-none d-sm-block">
 		<header class="vlt-header vlt-header--fullscreen">
 			<div class="vlt-navbar vlt-navbar--main vlt-navbar--transparent vlt-navbar--sticky vlt-navbar--transparent vlt-navbar--sticky">
 				<div class="container">
@@ -156,22 +159,22 @@
 							<!--Navigation-->
 							<!--Menu-->
 							<ul class="sf-menu" data-back-text="Back">
-							
-								
-								<li ><a href="./packages.php"><span>Packages</span></a>
-									
-								</li>
-								<li ><a href="./projects.php"><span>Projects</span></a>
+
+
+								<li><a href="./packages.php"><span>Packages</span></a>
 
 								</li>
-								<li ><a href="./about.php"><span>About Us</span></a>
+								<li><a href="./projects.php"><span>Projects</span></a>
 
 								</li>
-								<li ><a href="./contact.php"><span>Contact</span></a>
+								<li><a href="./about.php"><span>About Us</span></a>
 
 								</li>
-							
-								</ul>
+								<li><a href="./contact.php"><span>Contact</span></a>
+
+								</li>
+
+							</ul>
 						</div>
 					</div>
 				</div>
