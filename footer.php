@@ -1,3 +1,5 @@
+<?php include 'consent-banner.php'; ?>
+
 <!--Footer-->
 <footer class="vlt-footer vlt-footer--style-1 vlt-footer--fixed">
 		<div class="container">
