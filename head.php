@@ -25,6 +25,15 @@
 	<!--Custom-->
 	<link rel="stylesheet" href="assets/css/custom.css">
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JG35ZT8WX6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JG35ZT8WX6');
+</script>
 
 <body>
 	<!--Site preloader-->
