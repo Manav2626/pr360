@@ -450,10 +450,13 @@
 		<section class="jarallax has-white-color text-center"><img class="jarallax-img" src="assets/img1/contact_hero.jpg" alt="" loading="lazy">
 			<div class="vlt-gap-240"></div>
 			<!--Video button-->
-			<div class="vlt-video-button "><a href="./assets/video/pr45.mp4" data-fancybox data-small-btn="true" rel="nofollow"><i class="icon-play"></i></a>
-				<h6>View Video
-				</h6>
-			</div>
+			<div class="vlt-video-button">
+    <a href="https://youtu.be/u_QKzq96s0Q?si=RujrjxPXBz9TPAP3" data-fancybox data-small-btn="true" rel="nofollow">
+        <i class="icon-play"></i>
+    </a>
+    <h6>View Video</h6>
+</div>
+
 			<div class="vlt-gap-240"></div>
 		</section>
 		<!--Section-->
