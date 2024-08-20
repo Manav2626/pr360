@@ -444,7 +444,7 @@
 		<!--Section-->
 		<section class="has-white-background-color position-relative">
 			<!--Particle image--><img class="vlt-particle" src="assets/img/root/square-plus-pattern.png" data-animation-name="fadeInLeft" alt="" style="position: absolute; bottom: 0; left: 0; max-width: 230px; --animate-delay: .5s;" loading="lazy">
-			<!--Particle image--><img class="vlt-particle" src="assets/img/root/banner-red-shape.png" data-animation-name="fadeInRight" alt="" style="position: absolute; top: 0; right: 0; max-width: 300px; --animate-delay: 1s;" loading="lazy">
+			<!--Particle image--><img class="vlt-particle" src="assets/img1/BANNER_BLUE_SHAPE.png" data-animation-name="fadeInRight" alt="" style="position: absolute; top: 0; right: 0; max-width: 300px; --animate-delay: 1s;" loading="lazy">
 			<div class="vlt-gap-130"></div>
 			<div class="container">
 				<div class="row">

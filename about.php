@@ -132,7 +132,7 @@
 			</section>
 			<!--Section-->
 
-			<section class="jarallax has-white-color"><img class="jarallax-img" src="assets/img/counter-background.png" alt="" loading="lazy">
+			<section class="jarallax has-white-color"><img class="jarallax-img" src="assets/img1/counter background.png" alt="" loading="lazy">
 				<div class="container">
 					<div class="row justify-content-between">
 						<div class="col-auto">
