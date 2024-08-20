@@ -175,7 +175,7 @@
 						<div class="col-md-8 offset-md-2">
 							<div class="text-center">
 								<!--Animated block-->
-								<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0"><span class="vlt-display-1 has-primary-color">Testimonials</span>
+								<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0"><span class="vlt-display-1 has-primary-color">Quotes</span>
 								</div>
 								<div class="vlt-gap-70"></div>
 								<!--Animated block-->
