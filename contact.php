@@ -47,18 +47,18 @@
 								</div>
 								<div class="vlt-form-row two-col">
 									<div class="vlt-form-group">
-									<input class="vlt-form-control" type="tel" name="phone" placeholder=" " pattern="\d{10}" maxlength="10" inputmode="numeric" required>
-									<label class="vlt-form-label">Phone number</label>
+									<input class="vlt-form-control" type="tel" name="phone" placeholder=" " pattern="\d{10}" maxlength="10" inputmode="numeric" required="required">
+									<label class="vlt-form-label">Phone number*</label>
 									</div>
 									<div class="vlt-form-group">
 										<input class="vlt-form-control" type="text" name="company" placeholder=" ">
-										<label class="vlt-form-label">Company</label>
+										<label class="vlt-form-label">Speciality</label>
 									</div>
 								</div>
 								
 								<div class="vlt-form-group">
 									<textarea class="vlt-form-control" name="message" rows="5" placeholder=" "></textarea>
-									<label class="vlt-form-label">Message*</label>
+									<label class="vlt-form-label">Message</label>
 								</div>
 								
 								<input type="hidden" name="redirect" value="https://pr36o.com/contact.php"> 
@@ -90,7 +90,12 @@
 
 									<!--Animated block-->
 									<div class="vlt-animated-block" data-aos="fade" data-aos-delay="400">
-										<div class="has-black-color"><a class="vlt-social-icon vlt-social-icon--style-1" href="#">Fb.</a><a class="vlt-social-icon vlt-social-icon--style-1" href="#">Tw.</a><a class="vlt-social-icon vlt-social-icon--style-1" href="#">In.</a><a class="vlt-social-icon vlt-social-icon--style-1" href="#">Ln.</a></div>
+										<div class="has-black-color">
+										<a class="vlt-social-icon vlt-social-icon--style-1" href="https://www.instagram.com/pr36o.marketing" target=”_blank”>In.</a>
+									<a class="vlt-social-icon vlt-social-icon--style-1" href="https://www.facebook.com/profile.php?id=61563257781406&mibextid=LQQJ4d" target=”_blank”>Fb.</a>
+									<a class="vlt-social-icon vlt-social-icon--style-1" href="https://www.linkedin.com/company/pr360healthcaremarketing/" target=”_blank”>Ln.</a>
+									<a class="vlt-social-icon vlt-social-icon--style-1" href="https://youtube.com/@pr360marketing" target=”_blank”>Yt.</a>
+										</div>
 									</div>
 								</div>
 							</div>
