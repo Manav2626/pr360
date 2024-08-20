@@ -30,7 +30,7 @@
 Discover how our tailored packages can redefine your brand’s impact, drive patient engagement, and elevate your market presence. Dare to explore the future of healthcare marketing with PR360—where innovation meets excellence. Are you ready to unlock the full potential of your healthcare brand?</p>
 									</div>
 								</div>
-								<!--<a href="allservices.php" class="vlt-btn vlt-btn--secondary vlt-btn--lg mt-5">Know More</a>-->
+								<a href="contact.php" class="vlt-btn vlt-btn--secondary vlt-btn--lg mt-5">Contact Us</a>
 							</div>
 							<div class="vlt-gap-80"></div>
 						</div>
@@ -219,79 +219,7 @@ Discover how our tailored packages can redefine your brand’s impact, drive pat
 				</div>
 				<div class="vlt-gap-120"></div>
 			</section>
-			<!--Section-->
-			<section class="position-relative has-extra-light-gray-background-color has-black-color">
-				<!--Particle image--><img class="vlt-particle" src="assets/img/root/square-plus-pattern.png" data-animation-name="fadeInRight" alt="" style="position: absolute; top: 0; right: 0; max-width: 232px; --animate-delay: .5s;" loading="lazy">
-				<div class="vlt-gap-120"></div>
-				<div class="container">
-					<div class="row">
-						<div class="col-md-8 offset-md-2">
-							<!--Animated block-->
-							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0"><span class="vlt-display-1 has-primary-color">Testimonials</span>
-							</div>
-							<div class="vlt-gap-70"></div>
-							<!--Animated block-->
-							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="100">
-								<!--Content slider-->
-								<div class="vlt-content-slider " data-navigation-anchor=".vlt-testimonials-slider-anchor" data-gap="100" data-loop="enable" data-speed="" data-autoplay="" data-autoplay-speed="" data-slides-centered="" data-slide-settings="{}" data-free-mode="" data-slider-offset="" data-mousewheel="">
-									<div class="swiper-container">
-										<div class="swiper-wrapper">
-											<div class="swiper-slide">
-												<!--Testimonial-->
-												<div class="vlt-testimonial vlt-testimonial--style-1">
-													<div class="vlt-testimonial__content">“ In earth herb gathering bring dominion shall life <br>first shall set two let gathered yielding me <br>second second fill. Bring seasons made. <br>For let place saying forth make. ”</div>
-													<div class="vlt-testimonial__meta">
-														<div>
-															<h6 class="vlt-testimonial__title">Peter Daniels
-															</h6><span class="vlt-testimonial__function">President / CEO Indesign Inc.</span>
-														</div>
-													</div>
-												</div>
-											</div>
-											<div class="swiper-slide">
-												<!--Testimonial-->
-												<div class="vlt-testimonial vlt-testimonial--style-1">
-													<div class="vlt-testimonial__content">“ In earth herb gathering bring dominion shall life <br>first shall set two let gathered yielding me <br>second second fill. Bring seasons made. <br>For let place saying forth make. ”</div>
-													<div class="vlt-testimonial__meta">
-														<div>
-															<h6 class="vlt-testimonial__title">Hillary Morris
-															</h6><span class="vlt-testimonial__function">President / CEO Indesign Inc.</span>
-														</div>
-													</div>
-												</div>
-											</div>
-											<div class="swiper-slide">
-												<!--Testimonial-->
-												<div class="vlt-testimonial vlt-testimonial--style-1">
-													<div class="vlt-testimonial__content">“ In earth herb gathering bring dominion shall life <br>first shall set two let gathered yielding me <br>second second fill. Bring seasons made. <br>For let place saying forth make. ”</div>
-													<div class="vlt-testimonial__meta">
-														<div>
-															<h6 class="vlt-testimonial__title">Edward Palmer
-															</h6><span class="vlt-testimonial__function">President / CEO Inde.</span>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="vlt-gap-80"></div>
-								<!--Slider controls-->
-								<div class="vlt-slider-controls vlt-slider-controls--style-1 vlt-testimonials-slider-anchor has-black-color">
-									<div class="vlt-swiper-button-prev"><i class="icon-arrow-left"></i>
-									</div>
-									<div class="vlt-swiper-pagination"></div>
-									<div class="vlt-swiper-button-next"><i class="icon-arrow-right"></i>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="vlt-gap-100"></div>
-				
-				<div class="vlt-gap-120"></div>
-			</section>
+			
 		</div>
 	</main>
 	<?php include 'footer.php'; ?>

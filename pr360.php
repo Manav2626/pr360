@@ -48,6 +48,7 @@
 								<h2>Enhance your <br>Hospital's Impact</h2>
 							</div>
 							<div class="vlt-gap-40--sm"></div>
+							<a href="contact.php" class="vlt-btn vlt-btn--secondary vlt-btn--lg mt-5">Contact Us</a>
 						</div>
 						<div class="col-md-6">
 							<!--Animated block-->

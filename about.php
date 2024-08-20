@@ -187,37 +187,22 @@
 												<div class="swiper-slide">
 													<!--Testimonial-->
 													<div class="vlt-testimonial vlt-testimonial--style-1">
-														<div class="vlt-testimonial__content">“ In earth herb gathering bring dominion shall life <br>first shall set two let gathered yielding me <br>second second fill. Bring seasons made. <br>For let place saying forth make. ”</div>
-														<div class="vlt-testimonial__meta">
-															<div>
-																<h6 class="vlt-testimonial__title">Peter Daniels
-																</h6><span class="vlt-testimonial__function">President / CEO Indesign Inc.</span>
-															</div>
-														</div>
+														<div class="vlt-testimonial__content">“ A brand is no longer what we tell the <br>consumer it is—it is what consumers <br> tell each other it is. ”</div>
+														
 													</div>
 												</div>
 												<div class="swiper-slide">
 													<!--Testimonial-->
 													<div class="vlt-testimonial vlt-testimonial--style-1">
-														<div class="vlt-testimonial__content">“ In earth herb gathering bring dominion shall life <br>first shall set two let gathered yielding me <br>second second fill. Bring seasons made. <br>For let place saying forth make. ”</div>
-														<div class="vlt-testimonial__meta">
-															<div>
-																<h6 class="vlt-testimonial__title">Hillary Morris
-																</h6><span class="vlt-testimonial__function">President / CEO Indesign Inc.</span>
-															</div>
-														</div>
+														<div class="vlt-testimonial__content">“ Branding is the process of connecting <br>good strategy with good creativity. ”</div>
+														
 													</div>
 												</div>
 												<div class="swiper-slide">
 													<!--Testimonial-->
 													<div class="vlt-testimonial vlt-testimonial--style-1">
-														<div class="vlt-testimonial__content">“ In earth herb gathering bring dominion shall life <br>first shall set two let gathered yielding me <br>second second fill. Bring seasons made. <br>For let place saying forth make. ”</div>
-														<div class="vlt-testimonial__meta">
-															<div>
-																<h6 class="vlt-testimonial__title">Edward Palmer
-																</h6><span class="vlt-testimonial__function">President / CEO Inde.</span>
-															</div>
-														</div>
+														<div class="vlt-testimonial__content">“ Make it simple. Make it memorable.<br> Make it inviting to look at.<br> Make it fun to read. ”</div>
+														
 													</div>
 												</div>
 											</div>

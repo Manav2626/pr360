@@ -373,42 +373,24 @@
 										<div class="swiper-slide">
 											<!--Testimonial-->
 											<div class="vlt-testimonial vlt-testimonial--style-2">
-												<div class="vlt-testimonial__meta">
-													<div class="vlt-testimonial__avatar"><img src="assets/img/testimonial-avatar-01.png" alt="" loading="lazy"></div>
-													<div>
-														<h6 class="vlt-testimonial__title">Peter Daniels
-														</h6><span class="vlt-testimonial__function">President / CEO Indesign Inc.</span>
-													</div>
-												</div>
-												<div class="vlt-testimonial__content">“ Behold you lesser our let seed there for and light great lights that seasons seasons light second give midst. ”
+												
+												<div class="vlt-testimonial__content">“ A brand is no longer what we tell the consumer it is—it is what consumers tell each other it is. ”
 												</div>
 											</div>
 										</div>
 										<div class="swiper-slide">
 											<!--Testimonial-->
 											<div class="vlt-testimonial vlt-testimonial--style-2">
-												<div class="vlt-testimonial__meta">
-													<div class="vlt-testimonial__avatar"><img src="assets/img/testimonial-avatar-02.png" alt="" loading="lazy"></div>
-													<div>
-														<h6 class="vlt-testimonial__title">Hillary Morris
-														</h6><span class="vlt-testimonial__function">President / CEO Indesign Inc.</span>
-													</div>
-												</div>
-												<div class="vlt-testimonial__content">“ Behold you lesser our let seed there for and light great lights that seasons seasons light second give midst. ”
+												
+												<div class="vlt-testimonial__content">“ Branding is the process of connecting good strategy with good creativity. ”
 												</div>
 											</div>
 										</div>
 										<div class="swiper-slide">
 											<!--Testimonial-->
 											<div class="vlt-testimonial vlt-testimonial--style-2">
-												<div class="vlt-testimonial__meta">
-													<div class="vlt-testimonial__avatar"><img src="assets/img/testimonial-avatar-03.png" alt="" loading="lazy"></div>
-													<div>
-														<h6 class="vlt-testimonial__title">Edward Palmer
-														</h6><span class="vlt-testimonial__function">President / CEO Inde.</span>
-													</div>
-												</div>
-												<div class="vlt-testimonial__content">“ Behold you lesser our let seed there for and light great lights that seasons seasons light second give midst. ”
+												
+												<div class="vlt-testimonial__content">“ Make it simple. Make it memorable. Make it inviting to look at. Make it fun to read. ”
 												</div>
 											</div>
 										</div>
