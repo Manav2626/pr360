@@ -112,7 +112,12 @@
 						<div class="container">
 							<div class="d-flex justify-content-between align-items-end">
 								<!--Widget-->
-								<div class="vlt-widget vlt-widget--socials"><a class="vlt-social-icon vlt-social-icon--style-1" href="#">Fb.</a><a class="vlt-social-icon vlt-social-icon--style-1" href="#">Tw.</a><a class="vlt-social-icon vlt-social-icon--style-1" href="#">In.</a><a class="vlt-social-icon vlt-social-icon--style-1" href="#">Ln.</a></div>
+								<div class="vlt-widget vlt-widget--socials">
+									<a class="vlt-social-icon vlt-social-icon--style-1" href="https://www.instagram.com/pr36o.marketing" target=”_blank”>In.</a>
+									<a class="vlt-social-icon vlt-social-icon--style-1" href="https://www.facebook.com/profile.php?id=61563257781406&mibextid=LQQJ4d" target=”_blank”>Fb.</a>
+									<a class="vlt-social-icon vlt-social-icon--style-1" href="https://www.linkedin.com/company/pr360healthcaremarketing/" target=”_blank”>Ln.</a>
+									<a class="vlt-social-icon vlt-social-icon--style-1" href="https://youtube.com/@pr360marketing" target=”_blank”>Yt.</a>
+								</div>
 								<!--Widget-->
 								<div class="vlt-widget vlt-widget--html">
 									<div class="text-right">
