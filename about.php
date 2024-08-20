@@ -47,7 +47,7 @@
 				<div class="vlt-gap-150"></div>
 			</section>
 			<!--Section-->
-			<section class="jarallax"><img class="jarallax-img" src="assets/img1/services-background.png" alt="" loading="lazy">
+			<section class="jarallax"><img class="jarallax-img" src="assets/img1/services-background2.png" alt="" loading="lazy">
 				<div class="vlt-gap-120"></div>
 				<div class="container">
 					<div class="row">
