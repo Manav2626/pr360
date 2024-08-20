@@ -23,9 +23,10 @@
 					<!--Widget-->
 					<div class="vlt-widget vlt-widget--text vlt-widget--white">
 						<ul>
-							<li><a href="https://www.instagram.com/pr36o.marketing?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Instagram</a></li>
-							<li><a href="#">Facebook</a></li>
-							<li><a href="#">LinkedIn</a></li>
+							<li><a href="https://www.instagram.com/pr36o.marketing" target=”_blank”>Instagram</a></li>
+							<li><a href="https://www.facebook.com/profile.php?id=61563257781406&mibextid=LQQJ4d" target=”_blank”>Facebook</a></li>
+							<li><a href="https://www.linkedin.com/company/pr360healthcaremarketing/" target=”_blank”>LinkedIn</a></li>
+							<li><a href="https://youtube.com/@pr360marketing"></a target=”_blank”>Youtube</li>
 						</ul>
 					</div>
 				</div>
