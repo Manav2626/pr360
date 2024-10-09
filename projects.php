@@ -57,7 +57,7 @@
 						<div class=" grid-item filter-branding">
 							<!--Portfolio item-->
 							<article class="vlt-work vlt-work--style-2">
-								<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="#"></a><img src="assets/img1/mb3.jpg" alt="" loading="lazy">
+								<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="#"></a><img src="assets/img1/bb1.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-work__meta">
 									
@@ -98,7 +98,7 @@
 						<div class=" grid-item filter-branding">
 							<!--Portfolio item-->
 							<article class="vlt-work vlt-work--style-2">
-								<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="#"></a><img src="assets/img1/ms1.jpg" alt="" loading="lazy">
+								<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="#"></a><img src="assets/img1/bs1.png" alt="" loading="lazy">
 								</div>
 								<div class="vlt-work__meta">
 									
