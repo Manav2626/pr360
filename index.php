@@ -14,12 +14,43 @@
 						<div class="bar"><span></span></div><span class="total"></span>
 					</div>
 				</div>
-				
+
 			</div>
 			<!--Project showcase-->
 			<div class="vlt-project-showcase vlt-project-showcase--style-6" data-navigation-anchor=".vlt-homepage-03-anchor">
 				<div class="swiper-container">
 					<div class="swiper-wrapper">
+						<div class="swiper-slide">
+							<div class="vlt-project-showcase__item">
+								<div class="vlt-project-showcase__image" style="background-image: url(./assets/img1/home3.png);"></div>
+								<div class="d-flex flex-grow-1 flex-shrink-1 align-items-center">
+									<div class="vlt-project-showcase__content">
+										<div class="container">
+											<div class="row">
+												<div class="col-lg-6 offset-lg-1">
+													<div class="position-relative">
+														<h1 class="vlt-project-showcase__title mask has-cursor"><a href="#">Sorted <br>Marketing</a></h1>
+														<h1 class="vlt-project-showcase__title original has-cursor"><a href="#">Sorted <br>Marketing</a></h1>
+													</div>
+
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="flex-grow-0 flex-shrink-0">
+									<div class="vlt-project-showcase__footer">
+										<!--Slider controls-->
+										<div class="vlt-slider-controls vlt-slider-controls--style-3 vlt-homepage-03-anchor has-white-background-color has-black-color">
+											<div class="vlt-swiper-button-prev">Prev
+											</div><span class="sep">|</span>
+											<div class="vlt-swiper-button-next">Next
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 						<div class="swiper-slide">
 							<div class="vlt-project-showcase__item">
 								<div class="vlt-project-showcase__image" style="background-image: url(./assets/img1/home0.jpg);"></div>
@@ -63,7 +94,7 @@
 														<h1 class="vlt-project-showcase__title mask has-cursor"><a href="#">Brilliant <br>Strategies</a></h1>
 														<h1 class="vlt-project-showcase__title original has-cursor"><a href="#">Brilliant <br>Strategies</a></h1>
 													</div>
-													
+
 												</div>
 											</div>
 										</div>
@@ -82,37 +113,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="swiper-slide">
-							<div class="vlt-project-showcase__item">
-								<div class="vlt-project-showcase__image" style="background-image: url(./assets/img1/home3.png);"></div>
-								<div class="d-flex flex-grow-1 flex-shrink-1 align-items-center">
-									<div class="vlt-project-showcase__content">
-										<div class="container">
-											<div class="row">
-												<div class="col-lg-6 offset-lg-1">
-													<div class="position-relative">
-														<h1 class="vlt-project-showcase__title mask has-cursor"><a href="#">Sorted <br>Marketing</a></h1>
-														<h1 class="vlt-project-showcase__title original has-cursor"><a href="#">Sorted <br>Marketing</a></h1>
-													</div>
-													
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="flex-grow-0 flex-shrink-0">
-									<div class="vlt-project-showcase__footer">
-										<!--Slider controls-->
-										<div class="vlt-slider-controls vlt-slider-controls--style-3 vlt-homepage-03-anchor has-white-background-color has-black-color">
-											<div class="vlt-swiper-button-prev">Prev
-											</div><span class="sep">|</span>
-											<div class="vlt-swiper-button-next">Next
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
+
 					</div>
 				</div>
 			</div>
@@ -132,13 +133,15 @@
 						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0">
 							<!--Section title-->
 							<div class="vlt-section-title vlt-section-title--style-1"><span class="vlt-section-title__subtitle">About us</span>
-								<h2 class="vlt-section-title__title">You got excellence <br>We got Creativity. </h2>
+								<h2 class="vlt-section-title__title">You got excellence.
+								<br>We got Creativity. </h2>
 							</div>
 						</div>
 						<div class="vlt-gap-40"></div>
 						<!--Animated block-->
 						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="100">
-							<p class="fz-3" style="max-width: 415px;">We are a company driven by health care professionals, engineers, social media analysts and creators, dedicated exclusively to serving healthcare professionals.</p>
+							<p class="fz-3" style="max-width: 415px;">We are a team of professionals, engineers, social media analysts, and creators, all driven by a shared passion for innovation and excellence, dedicated to delivering exceptional solutions across industries.
+							</p>
 						</div>
 						<div class="vlt-gap-50"></div>
 						<!--Animated block-->
@@ -170,7 +173,8 @@
 						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="100">
 							<!--Progress bar-->
 							<div class="vlt-progress-bar" data-final-value="85" data-animation-speed="1000">
-								<h5 class="vlt-progress-bar__title" style=" color:#fff;">Growth<span class="counter">0</span>
+								<h5 class="vlt-progress-bar__title" style=" color:#fff;">Growth
+								<span class="counter">0</span>
 								</h5>
 								<div class="vlt-progress-bar__bar"><span></span></div>
 							</div>
@@ -180,7 +184,8 @@
 						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="200">
 							<!--Progress bar-->
 							<div class="vlt-progress-bar" data-final-value="100" data-animation-speed="1000">
-								<h5 class="vlt-progress-bar__title" style=" color:#fff;">Brand Awareness<span class="counter">0</span>
+								<h5 class="vlt-progress-bar__title" style=" color:#fff;">Brand Awareness
+								<span class="counter">0</span>
 								</h5>
 								<div class="vlt-progress-bar__bar"><span></span></div>
 							</div>
@@ -194,7 +199,7 @@
 								<div class="vlt-animated-block" data-aos="fade" data-aos-delay="300">
 									<!-- Service -->
 									<div class="vlt-service vlt-service--style-4">
-										
+
 										<div class="vlt-service__content">
 											<div class="vlt-service__media">
 												<img src="assets/img1/icon1.png" alt="Digital Growth" width="68" height="65">
@@ -208,12 +213,12 @@
 								<div class="vlt-animated-block" data-aos="fade" data-aos-delay="300">
 									<!-- Service -->
 									<div class="vlt-service vlt-service--style-4">
-										
+
 										<div class="vlt-service__content">
 											<div class="vlt-service__media">
 												<img src="assets/img1/icon2.png" alt="Digital Growth" width="68" height="65">
 											</div>
-											<h5 class="vlt-service__title mt-3">Referal <br> Business</h5>
+											<h5 class="vlt-service__title mt-3">Brand <br> Visibility</h5>
 										</div>
 									</div>
 								</div>
@@ -223,7 +228,7 @@
 								<div class="vlt-animated-block" data-aos="fade" data-aos-delay="300">
 									<!-- Service -->
 									<div class="vlt-service vlt-service--style-4">
-										
+
 										<div class="vlt-service__content">
 											<div class="vlt-service__media">
 												<img src="assets/img1/icon3.png" alt="Digital Growth" width="68" height="65">
@@ -236,12 +241,12 @@
 								<div class="vlt-animated-block" data-aos="fade" data-aos-delay="300">
 									<!-- Service -->
 									<div class="vlt-service vlt-service--style-4">
-										
+
 										<div class="vlt-service__content">
 											<div class="vlt-service__media">
 												<img src="assets/img1/icon9.png" alt="Digital Growth" width="68" height="65">
 											</div>
-											<h5 class="vlt-service__title mt-3">Thirdparty <br> Tie-ups</h5>
+											<h5 class="vlt-service__title mt-3">Custom <br> Strategies</h5>
 										</div>
 									</div>
 								</div>
@@ -251,7 +256,7 @@
 								<div class="vlt-animated-block" data-aos="fade" data-aos-delay="300">
 									<!-- Service -->
 									<div class="vlt-service vlt-service--style-4">
-										
+
 										<div class="vlt-service__content">
 											<div class="vlt-service__media">
 												<img src="assets/img1/icon5.png" alt="Digital Growth" width="68" height="65">
@@ -264,7 +269,7 @@
 								<div class="vlt-animated-block" data-aos="fade" data-aos-delay="300">
 									<!-- Service -->
 									<div class="vlt-service vlt-service--style-4">
-										
+
 										<div class="vlt-service__content">
 											<div class="vlt-service__media">
 												<img src="assets/img1/icon6.png" alt="Digital Growth" width="68" height="65">
@@ -318,7 +323,7 @@
 										<article class="vlt-work vlt-work--style-3">
 											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms1.jpg" alt="" loading="lazy">
 											</div>
-											
+
 										</article>
 									</div>
 								</div>
@@ -328,7 +333,7 @@
 										<article class="vlt-work vlt-work--style-3">
 											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms2.jpg" alt="" loading="lazy">
 											</div>
-											
+
 										</article>
 									</div>
 								</div>
@@ -338,7 +343,7 @@
 										<article class="vlt-work vlt-work--style-3">
 											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms4.jpg" alt="" loading="lazy">
 											</div>
-											
+
 										</article>
 									</div>
 								</div>
@@ -348,7 +353,7 @@
 										<article class="vlt-work vlt-work--style-3">
 											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms5.jpg" alt="" loading="lazy">
 											</div>
-											
+
 										</article>
 									</div>
 								</div>
@@ -373,7 +378,7 @@
 										<div class="swiper-slide">
 											<!--Testimonial-->
 											<div class="vlt-testimonial vlt-testimonial--style-2">
-												
+
 												<div class="vlt-testimonial__content">“ A brand is no longer what we tell the consumer it is—it is what consumers tell each other it is. ”
 												</div>
 											</div>
@@ -381,7 +386,7 @@
 										<div class="swiper-slide">
 											<!--Testimonial-->
 											<div class="vlt-testimonial vlt-testimonial--style-2">
-												
+
 												<div class="vlt-testimonial__content">“ Branding is the process of connecting good strategy with good creativity. ”
 												</div>
 											</div>
@@ -389,7 +394,7 @@
 										<div class="swiper-slide">
 											<!--Testimonial-->
 											<div class="vlt-testimonial vlt-testimonial--style-2">
-												
+
 												<div class="vlt-testimonial__content">“ Make it simple. Make it memorable. Make it inviting to look at. Make it fun to read. ”
 												</div>
 											</div>
@@ -415,7 +420,8 @@
 						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0">
 							<!--Section title-->
 							<div class="vlt-section-title vlt-section-title--style-1"><span class="vlt-section-title__subtitle">Our Mission</span>
-								<h2 class="vlt-section-title__title">We aim to transform healthcare marketing.</h2>
+								<h2 class="vlt-section-title__title">We aim to transform the landscape of marketing.
+								</h2>
 							</div>
 						</div>
 						<div class="vlt-gap-30"></div>
@@ -433,11 +439,11 @@
 			<div class="vlt-gap-240"></div>
 			<!--Video button-->
 			<div class="vlt-video-button">
-    <a href="https://youtu.be/u_QKzq96s0Q?si=RujrjxPXBz9TPAP3" data-fancybox data-small-btn="true" rel="nofollow">
-        <i class="icon-play"></i>
-    </a>
-    <h6>View Video</h6>
-</div>
+				<a href="https://youtu.be/u_QKzq96s0Q?si=RujrjxPXBz9TPAP3" data-fancybox data-small-btn="true" rel="nofollow">
+					<i class="icon-play"></i>
+				</a>
+				<h6>View Video</h6>
+			</div>
 
 			<div class="vlt-gap-240"></div>
 		</section>
