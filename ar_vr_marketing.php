@@ -41,7 +41,7 @@
 				<div class="row">
 					<div class="col-md-11 offset-md-1">
 						<!--Animated block-->
-						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0"><span class="vlt-display-1 has-primary-color">For Doctors</span>
+						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0"><span class="vlt-display-1 has-primary-color">AR/VR Marketing</span>
 						</div>
 						<div class="vlt-gap-30"></div>
 					</div>
