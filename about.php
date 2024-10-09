@@ -27,7 +27,7 @@
 							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0">
 								<!--Section title-->
 								<div class="vlt-section-title vlt-section-title--style-1">
-									<h2 class="vlt-section-title__title">Specialised in HealthCare Marketing </h2>
+									<h2 class="vlt-section-title__title">Specialized in Marketing <br>Solutions </h2>
 								</div>
 							</div>
 							<div class="vlt-gap-40--sm"></div>
@@ -35,7 +35,8 @@
 						<div class="col-md-6">
 							<!--Animated block-->
 							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="100">
-								<p class="fz-3">We are a company driven by health care professionals, engineers, social media analysts and creators, dedicated exclusively to serving healthcare professionals. Our content strategies are crafted by experts who understand the unique value that needs to be added to the market. We leverage our specialized knowledge to enhance your digital presence and connect you with your audience effectively.</p>
+								<p class="fz-3">We are a company driven by professionals, engineers, social media analysts, and creators, dedicated to serving a diverse range of industries. Our content strategies are crafted by experts who understand the unique value that needs to be added to the market. We leverage our specialized knowledge to enhance your digital presence and connect you with your audience effectively.
+								</p>
 								<div class="vlt-gap-50"></div>
 								<!--Button--><a class="vlt-btn vlt-btn--secondary vlt-btn--md" href="/projects.php" target="_self">See projects</a>
 							</div>
@@ -156,7 +157,7 @@
 								<div class="vlt-counter-up vlt-counter-up--style-3" data-animation-speed="1000" data-delimiter="">
 									<div class="vlt-counter-up__icon"><i class="icon-reward"></i></div>
 									<div class="vlt-counter-up__counter">10</div><span>+</span>
-									<h5 class="vlt-counter-up__title">Years of <br>On Ground Marketing Experience
+									<h5 class="vlt-counter-up__title">Years of <br>Web Development Experience
 									</h5>
 								</div>
 							</div>

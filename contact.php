@@ -52,7 +52,7 @@
 									</div>
 									<div class="vlt-form-group">
 										<input class="vlt-form-control" type="text" name="company" placeholder=" ">
-										<label class="vlt-form-label">Speciality</label>
+										<label class="vlt-form-label">Company</label>
 									</div>
 								</div>
 								
