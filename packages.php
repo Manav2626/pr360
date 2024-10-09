@@ -8,7 +8,7 @@
 			<div class="vlt-page-title vlt-page-title--style-3 jarallax"><img class="jarallax-img" src="assets/img1/package_hero.jpg" alt="" loading="lazy">
 				<div class="vlt-page-title__overlay"></div><a class="vlt-page-title__scroll-to vlt-scroll-to" href="#content"><i class="icon-arrow-down"></i></a>
 				<div class="container">
-					<h1 class="vlt-page-title__title lax" data-lax-translate-y="0 0, vh (vw*0.25)" data-lax-opacity="1 1, (vh*0.5) 0" data-lax-anchor=".vlt-page-title">Packages 
+					<h1 class="vlt-page-title__title lax" data-lax-translate-y="0 0, vh (vw*0.25)" data-lax-opacity="1 1, (vh*0.5) 0" data-lax-anchor=".vlt-page-title">Services 
 					</h1>
 				</div>
 			</div>

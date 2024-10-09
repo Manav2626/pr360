@@ -91,7 +91,7 @@
 							<!--Menu-->
 							<ul class="sf-menu" data-back-text="Back">
 
-								<li><a href="./packages.php"><span>Packages</span></a>
+								<li><a href="./services.php"><span>Services</span></a>
 
 								</li>
 								<li><a href="./projects.php"><span>Projects</span></a>
@@ -175,7 +175,7 @@
 							<ul class="sf-menu" data-back-text="Back">
 
 
-								<li><a href="./packages.php"><span>Packages</span></a>
+								<li><a href="./services.php"><span>Services</span></a>
 
 								</li>
 								<li><a href="./projects.php"><span>Projects</span></a>

@@ -41,7 +41,7 @@
 /* Container Styles */
 .vlt-styled-list {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Two columns layout */
+    grid-template-columns: repeat(1, 1fr); /* Two columns layout */
     gap: 10px; /* Space between items */
     list-style: none; /* Remove default list styling */
     padding: 0; /* Remove default padding */

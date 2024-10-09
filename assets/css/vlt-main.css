@@ -8306,8 +8306,8 @@ dl dd {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: flex;
-  flex-direction: row;
+  display: block;
+  /* flex-direction: row; */
 
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
