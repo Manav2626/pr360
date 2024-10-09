@@ -321,7 +321,7 @@
 									<div>
 										<!--Portfolio item-->
 										<article class="vlt-work vlt-work--style-3">
-											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms1.jpg" alt="" loading="lazy">
+											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/bs1.png" alt="" loading="lazy">
 											</div>
 
 										</article>
@@ -331,7 +331,17 @@
 									<div>
 										<!--Portfolio item-->
 										<article class="vlt-work vlt-work--style-3">
-											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms2.jpg" alt="" loading="lazy">
+											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/mms3.png" alt="" loading="lazy">
+											</div>
+
+										</article>
+									</div>
+								</div>
+								<div class="swiper-slide">
+									<div>
+										<!--Portfolio item-->
+										<article class="vlt-work vlt-work--style-3">
+											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/bs2.png" alt="" loading="lazy">
 											</div>
 
 										</article>
@@ -342,16 +352,6 @@
 										<!--Portfolio item-->
 										<article class="vlt-work vlt-work--style-3">
 											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms4.jpg" alt="" loading="lazy">
-											</div>
-
-										</article>
-									</div>
-								</div>
-								<div class="swiper-slide">
-									<div>
-										<!--Portfolio item-->
-										<article class="vlt-work vlt-work--style-3">
-											<div class="vlt-work__media"><a class="vlt-work__link has-cursor" href="./allservices.php"></a><img src="assets/img1/ms5.jpg" alt="" loading="lazy">
 											</div>
 
 										</article>
