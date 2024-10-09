@@ -41,7 +41,7 @@
 				<div class="row">
 					<div class="col-md-11 offset-md-1">
 						<!--Animated block-->
-						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0"><span class="vlt-display-1 has-primary-color">Digital Marketing                        </span>
+						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0"><span class="vlt-display-1 has-primary-color">Digital Marketing                     </span>
 						</div>
 						<div class="vlt-gap-30"></div>
 					</div>
@@ -63,6 +63,8 @@
 						<div class="vlt-gap-50"></div>
 						<!--Animated block-->
 						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="300">
+                        <p class="fz-3">SEO:
+                        </p>
 							<div class="has-black-color">
 								<!--Styled list-->
 								<ul class="vlt-styled-list vlt-styled-list--style-3">

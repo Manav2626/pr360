@@ -5,7 +5,7 @@
 	<div class="vlt-page-content">
 		<!--Page title-->
 		<div class="vlt-page-title vlt-page-title--style-2 jarallax" style="position: relative; overflow: hidden; width: 100%;">
-			<img class="jarallax-img" src="assets/img1/ar_vr-cover.png" alt="Responsive Image" loading="lazy"
+			<img class="jarallax-img" src="assets/img1/arvr-cover.png" alt="Responsive Image" loading="lazy"
 				style="width: 100%; height: auto; object-fit: cover; max-width: 100%;">
 
 			<style>
