@@ -27,7 +27,7 @@
 							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0">
 								<!--Section title-->
 								<div class="vlt-section-title vlt-section-title--style-1">
-									<h2 class="vlt-section-title__title">Specialized in Marketing <br>Solutions </h2>
+									<h2 class="vlt-section-title__title">Crafting Strategies, <br>Creating Impact </h2>
 								</div>
 							</div>
 							<div class="vlt-gap-40--sm"></div>
@@ -35,7 +35,12 @@
 						<div class="col-md-6">
 							<!--Animated block-->
 							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="100">
-								<p class="fz-3">We are a company driven by professionals, engineers, social media analysts, and creators, dedicated to serving a diverse range of industries. Our content strategies are crafted by experts who understand the unique value that needs to be added to the market. We leverage our specialized knowledge to enhance your digital presence and connect you with your audience effectively.
+								<p class="fz-3">At PR360, we’re more than just a marketing company—we’re a collective of bold thinkers, strategists, and creators dedicated to shaping the future of your brand. Our team, made up of industry experts, engineers, and visionary social media analysts, thrives on delivering powerful, tailored marketing solutions across diverse sectors.
+								</p>
+								<p class="fz-3">What sets us apart? We craft impactful content strategies that don’t just speak to your audience—they captivate and engage. We know what makes your brand unique, and we leverage that insight to amplify your digital presence, build meaningful connections, and drive growth.
+
+								</p>
+								<p class="fz-3">We don’t just follow trends—we set them. Let PR360 help you cut through the noise and rise above the competition.
 								</p>
 								<div class="vlt-gap-50"></div>
 								<!--Button--><a class="vlt-btn vlt-btn--secondary vlt-btn--md" href="/projects.php" target="_self">See projects</a>

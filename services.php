@@ -24,7 +24,8 @@
 								<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0">
 									<!--Section title-->
 									<div class="vlt-section-title vlt-section-title--style-1"><span class="vlt-section-title__subtitle">What we do</span>
-										<h2 class="vlt-section-title__title">Exceptional Marketing Services</h2>
+										<h2 class="vlt-section-title__title">Where Strategy Meets Innovation
+										</h2>
 										<p class="vlt-section-title__text ">We offer exclusive packages designed to transform your marketing strategy and elevate it to new heights. Our holistic approach covers every aspect—from strengthening referral networks and securing valuable partnerships to engaging with communities and maximizing your presence on digital platforms. <br><br>
 
                                         Discover how our tailored packages can redefine your brand’s impact, drive customer engagement, and enhance your market presence. Dare to explore the future of marketing with us—where innovation meets excellence. Are you ready to unlock the full potential of your brand?</p>
@@ -82,7 +83,7 @@
 									</div>
 									<h5 class="vlt-proccess__title">Digital Marketing 
 									</h5>
-									<p class="vlt-proccess__text">PR360 offers end-to-end digital marketing solutions, including SEO, social media management, paid advertising, and influencer marketing to drive traffic and grow your brand. Our content creation and branding services ensure your message resonates with your target audience.
+									<p class="vlt-proccess__text">Our comprehensive digital strategies are meticulously crafted to enhance your brand’s online visibility, foster meaningful engagement, and drive conversions.
 									</p>
 								</div>
 							</div>
@@ -97,7 +98,7 @@
 									</div>
 									<h5 class="vlt-proccess__title">Web Development 
 									</h5>
-									<p class="vlt-proccess__text">From sleek website designs to e-commerce platforms, PR360 builds custom websites that are optimized for performance and user experience. We provide ongoing maintenance to keep your site running smoothly and efficiently.
+									<p class="vlt-proccess__text">We provide customized web development solutions that prioritize sleek design, user-friendliness, and high performance, ensuring your website stands out and meets your business goals.
 									</p>
 								</div>
 							</div>
@@ -112,7 +113,7 @@
 									</div>
 									<h5 class="vlt-proccess__title">AR/VR Marketing 
 									</h5>
-									<p class="vlt-proccess__text">PR360 creates cutting-edge AR/VR marketing experiences that captivate your audience through virtual events, product demos, and immersive advertising. Elevate customer engagement with innovative augmented and virtual reality campaigns.
+									<p class="vlt-proccess__text">We specialize in innovative AR/VR marketing solutions that deliver immersive brand experiences and foster deep customer engagement.
 									</p>
 								</div>
 							</div>
