@@ -11,18 +11,34 @@
 			<style>
 				@media (max-width: 768px) {
 					.vlt-page-title.vlt-page-title--style-2.jarallax .jarallax-img {
+						content: url('assets/img1/AR_VR_Card.png');
+						/* Add your mobile image path here */
 						width: 80%;
-						height: 80% !important;
-						/* Maintain aspect ratio */
+						height: auto;
 						object-fit: contain;
 						margin: 0 auto;
 						display: block;
 						justify-content: center;
 					}
+
+					/* Additional spacing for mobile view */
+					.mt-5 {
+						margin-top: 1rem;
+						/* Adjust the value as needed */
+					}
+
+					/* Center the button for mobile view */
+					.mt-5 {
+						display: block;
+						/* Make it a block element */
+						margin: 2rem auto;
+						/* Center horizontally and add vertical spacing */
+						text-align: center;
+						/* Center the text within the button */
+					}
 				}
 			</style>
 		</div>
-
 
 		<div id="content"></div>
 		<!--Section-->
@@ -41,26 +57,34 @@
 				<div class="row">
 					<div class="col-md-11 offset-md-1">
 						<!--Animated block-->
-						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0"><span class="vlt-display-1 has-primary-color">AR/VR Marketing</span>
+						<style>
+							/* Styles for mobile view */
+							@media (max-width: 768px) {
+								.vlt-page-content .vlt-animated-block[data-aos="fade"][data-aos-delay="0"] {
+									margin-top: 20px;
+									/* Adjust the value as needed */
+								}
+							}
+						</style>
+
+						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0">
+							<span class="vlt-display-1 has-primary-color">AR/VR Marketing</span>
 						</div>
+
 						<div class="vlt-gap-30"></div>
 					</div>
 					<div class="col-md-5 offset-md-1">
 						<!--Animated block-->
 						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0">
-							<h2>Immersive experiences<br>that engage.
-                            </h2>
+							<h2>Immersive experiences<br>that engage.</h2>
 						</div>
 						<div class="vlt-gap-40--sm"></div>
 						<a href="contact.php" class="vlt-btn vlt-btn--secondary vlt-btn--lg mt-5">Contact Us</a>
 					</div>
 					<div class="col-md-6">
 						<!--Animated block-->
-						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="100">
-							<p class="fz-3">We specialize in innovative AR/VR marketing solutions that deliver immersive brand experiences and foster deep customer engagement. Our services include:
-
-
-                            </p>
+						<div class="vlt-animated-block mt-3" data-aos="fade" data-aos-delay="100">
+							<p class="fz-3">We specialize in innovative AR/VR marketing solutions that deliver immersive brand experiences and foster deep customer engagement. Our services include:</p>
 						</div>
 
 						<div class="vlt-gap-50"></div>
@@ -69,20 +93,16 @@
 							<div class="has-black-color">
 								<!--Styled list-->
 								<ul class="vlt-styled-list vlt-styled-list--style-3">
-									<li>Augmented reality experiences</li>
-									<li>Virtual reality events and product demos</li>
-									<li>AR advertising</li>
-									<li>VR for customer engagement</li>
-									
+								<li>Augmented reality experiences</li>
+                                    <li>Virtual reality events and product demos</li>
+                                    <li>AR advertising</li>
+                                    <li>VR for customer engagement</li>
 								</ul>
-
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-
-
 		</section>
 		<!--Page navigation-->
 		<section class="vlt-page-navigation vlt-page-navigation--style-1 has-black-color">
@@ -91,7 +111,7 @@
 				<div class="text-center">
 					<!--Stroke text-->
 					<div class="vlt-stroke-text vlt-stroke-text--lg"><a href="web_development.php" target="_self">Previous service</a>
-					</div>
+                    </div>
 				</div>
 			</div>
 			<div class="vlt-gap-130"></div>

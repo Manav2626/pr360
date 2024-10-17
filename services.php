@@ -51,7 +51,7 @@
 							<!--Animated block-->
 							<div class="vlt-animated-block" data-aos="fade" data-aos-delay="200">
 								<!--Service box-->
-								<div class="vlt-service-box"><a class="vlt-service-box__link" href="web_development.php"></a><img src="assets/img1/Web development_card.png" alt="" loading="lazy">
+								<div class="vlt-service-box"><a class="vlt-service-box__link" href="web_development.php"></a><img src="assets/img1/Web_development_card.png" alt="" loading="lazy">
 									
 								</div>
 							</div>
