@@ -41,7 +41,7 @@
 				<div class="row">
 					<div class="col-md-11 offset-md-1">
 						<!--Animated block-->
-						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0"><span class="vlt-display-1 has-primary-color">Digital Marketing                     </span>
+						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="0"><span class="vlt-display-1 has-primary-color">Digital Marketing </span>
 						</div>
 						<div class="vlt-gap-30"></div>
 					</div>
@@ -52,30 +52,76 @@
 						</div>
 						<div class="vlt-gap-40--sm"></div>
 						<a href="contact.php" class="vlt-btn vlt-btn--secondary vlt-btn--lg mt-5">Contact Us</a>
+						<div class="vlt-gap-40"></div>
+						<ul class="vlt-styled-list vlt-styled-list--style-3">
+							<p class="fz-3"></p>SEO</p>
+							<li>On-page</li>
+							<li>Off-page</li>
+							<li>Technical</li>
+							<li>Local</li>
+							<li>Audits</li>
+						</ul>
+
+						<ul class="vlt-styled-list vlt-styled-list--style-3 mt-3">
+							<p class="fz-3">Social Media Management</p>
+							<li>Strategy</li>
+							<li>Content</li>
+							<li>Community Management</li>
+							<li>Paid Ads</li>
+						</ul>
+
+						<ul class="vlt-styled-list vlt-styled-list--style-3 mt-3">
+							<p class="fz-3">Content Creation</p>
+							<li>Video</li>
+							<li>Graphics</li>
+							<li>Copywriting</li>
+							<li>Blogs</li>
+							<li>Branding</li>
+						</ul>
+
+
+
+
 					</div>
 					<div class="col-md-6">
 						<!--Animated block-->
 						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="100">
 							<p class="fz-3">Our comprehensive digital strategies are meticulously crafted to enhance your brand’s online visibility, foster meaningful engagement, and drive conversions. We leverage a multi-faceted approach that includes:
-                            </p>
+							</p>
 						</div>
 
-						<div class="vlt-gap-50"></div>
+						<div class="vlt-gap-150"></div>
 						<!--Animated block-->
 						<div class="vlt-animated-block" data-aos="fade" data-aos-delay="300">
-                        <p class="fz-3">SEO:
-                        </p>
+
 							<div class="has-black-color">
 								<!--Styled list-->
 								<ul class="vlt-styled-list vlt-styled-list--style-3">
-									<li>SEO (On-page, Off-page, Technical, Local, Audits)</li>
-									<li>Social Media Management (Strategy, Content, Community Management, Paid Ads)</li>
-									<li>Content Creation (Video, Graphics, Copywriting, Blogs, Branding)</li>
-									<li>Paid Advertising (Google Ads, Social Media Ads, Retargeting)</li>
-									<li>Email Marketing (Drip campaigns, Newsletters, Lead Nurturing)</li>
-									<li>Influencer Marketing (Strategy, Partnerships, Campaigns)</li>
-									<li>NFC Card Solutions (Custom digital networking with NFC business cards)</li>
+									<p class="fz-3">Paid Advertising</p>
+									<li>Google Ads</li>
+									<li>Social Media Ads</li>
+									<li>Retargeting</li>
 								</ul>
+
+								<ul class="vlt-styled-list vlt-styled-list--style-3 mt-3">
+									<p class="fz-3">Email Marketing</p>
+									<li>Drip campaigns</li>
+									<li>Newsletters</li>
+									<li>Lead Nurturing</li>
+								</ul>
+
+								<ul class="vlt-styled-list vlt-styled-list--style-3 mt-3">
+									<p class="fz-3">Influencer Marketing</p>
+									<li>Strategy</li>
+									<li>Partnerships</li>
+									<li>Campaigns</li>
+								</ul>
+
+								<ul class="vlt-styled-list vlt-styled-list--style-3 mt-3">
+									<p class="fz-3">NFC Card Solutions</p>
+									<li>Custom digital networking with NFC business cards</li>
+								</ul>
+								
 
 							</div>
 						</div>
