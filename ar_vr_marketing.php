@@ -11,14 +11,14 @@
 			<style>
 				@media (max-width: 768px) {
 					.vlt-page-title.vlt-page-title--style-2.jarallax .jarallax-img {
-						content: url('assets/img1/AR_VR_Card.png');
+						content: url('assets/img1/arvr-cover_small.png');
 						/* Add your mobile image path here */
 						width: 80%;
-						height: auto;
+						height: 60%;
 						object-fit: contain;
 						margin: 0 auto;
 						display: block;
-						justify-content: center;
+						justify-content: top;
 					}
 
 					/* Additional spacing for mobile view */

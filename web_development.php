@@ -11,7 +11,7 @@
 			<style>
 				@media (max-width: 768px) {
 					.vlt-page-title.vlt-page-title--style-2.jarallax .jarallax-img {
-						content: url('assets/img1/Web_development_card.png');
+						content: url('assets/img1/Websites-cover_small.png');
 						/* Add your mobile image path here */
 						width: 80%;
 						height: auto;
